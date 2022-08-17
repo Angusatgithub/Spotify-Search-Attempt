@@ -3,7 +3,7 @@ html {
 }
 
 input {
-    border: 1px;
+    min-height: 3rem;
+    border: 1px solid black;
     border-radius: 0.25rem;
-
 }

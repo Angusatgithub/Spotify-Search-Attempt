@@ -36,5 +36,5 @@ input {
 
 label,input{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }

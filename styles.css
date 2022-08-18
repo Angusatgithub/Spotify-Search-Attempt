@@ -19,12 +19,16 @@ body {
 }
 
 label {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2rem;
 }
 
 input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    display: block;
+    padding: 0 0.5rem;
     max-width: 80%;
     height: 3rem;
     border: 1px solid black;

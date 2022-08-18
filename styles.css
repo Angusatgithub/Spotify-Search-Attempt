@@ -2,6 +2,18 @@ html {
     font-size: 16px;
 }
 
+body {
+    background-color: #e6e6e6;
+}
+
+.Hero{
+    width: 80vw;
+    height: 50vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
 label {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: block;
@@ -9,6 +21,7 @@ label {
 }
 
 input {
+    min-width: 9rem;
     min-height: 3rem;
     border: 1px solid black;
     border-radius: 0.25rem;
